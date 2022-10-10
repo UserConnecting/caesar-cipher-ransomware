@@ -6,7 +6,7 @@
 <p align="center"> Autor: Joe Martins de Pontes
 
 
-<h1 align="center"> :speech_balloon: </h1>
+<h1 align="center"> :speech_balloon: Descrição </h1>
 Simulação de um Ransomware feito com a técnica de encriptação Cifra de César.<br></br>
 
 <h1 align="center"> 🚀 Funcionamento </h1>
@@ -16,6 +16,6 @@ Antes de executar, crie um arquivo de texto (teste.txt) no mesmo diretório onde
 Para realizar a decriptação, insira 'decode' no pop-up que será aberto, confirme e feche a janela. Abra novamente o arquivo de texto e ele estará recuperado.
 
 
-<h1 align="center"> :warning: </h1>
+<h1 align="center"> :warning: Aviso </h1>
 * O foco deste programa é para uso acadêmico e não deve ser modificado/utilizado para outros fins.
 O autor não se responsabiliza pelo uso indevido.
